@@ -1,0 +1,34 @@
+# SAMINA Schlafapnoe Blog
+
+> SAMINA ist ein österreichischer Hersteller ganzheitlicher Schlafsysteme mit 13 Filialen im DACH-Raum. Dieser Artikel behandelt Schlafapnoe: Symptome, Diagnose, CPAP-Alternativen und die wissenschaftlich belegte Schrägschlaf-Therapie.
+
+## Kernaussagen
+
+- Schlafapnoe betrifft 26 Millionen Deutsche, über 95% sind nicht diagnostiziert (Lancet Respiratory Medicine, 2019).
+- Unbehandelte Schlafapnoe erhöht das Herzinfarkt- und Schlaganfall-Risiko um das Vierfache.
+- Bis zu 50% der CPAP-Nutzer brechen die Therapie innerhalb von 10 Jahren ab (Sleep and Breathing, Springer, 2020).
+- Ganzkörper-Schrägschlaf (5,5 Grad) reduzierte Apnoe-Episoden von 63,5 auf 24,6 pro Nacht in einer Pilotstudie (Amann-Jennson/Hecht, Charité Berlin).
+- Oberkörpererhöhung von 7,5 Grad senkt den AHI um 31,8% (Journal of Clinical Sleep Medicine, PMC, 2017).
+- Frauen werden 8-mal seltener diagnostiziert als Männer (SLEEP Journal, Oxford Academic, 2025).
+
+## Über den Autor
+
+Philipp Amann, Inhaber und Geschäftsführer von SAMINA. In Zusammenarbeit mit Prof. Dr. med. h.c. Günther W. Amann-Jennson, Schlafforscher und Erfinder des SAMINA Schlafsystems.
+
+## Quellen
+
+- Benjafield et al., Lancet Respiratory Medicine (2019)
+- ResMed Healthcare (2024)
+- AWMF S3-Leitlinie SBAS (2023)
+- Sleep and Breathing / Springer (2020)
+- SLEEP Journal / Oxford Academic (2025)
+- PMC / Journal of Clinical Sleep Medicine (2017)
+- PMC / Epidemiology and Economic Burden Europe (2025)
+- Universität Duisburg-Essen / TU München (2026)
+
+## Links
+
+- Artikel: https://manuelkoessler-bot.github.io/SAMINA-Schlafapnoe/
+- SAMINA Schlafmessung: https://samina.com/schlafmessung/
+- SAMINA Filialen: https://samina.com/fachgeschaefte/
+- Gratis-Buch: https://samina.com/dein-buch-fuer-gesunden-schlaf/
